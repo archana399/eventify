@@ -38,7 +38,7 @@ Eventify was developed as a collaborative team project.
 
 ### Team Responsibilities
 
-**Archana Sale — Team Lead & Backend Developer**
+**Archana Sale — my resposibility**
 - Took responsibility for the backend integration of the application.
 - Designed and configured the Supabase database.
 - Integrated Supabase with the frontend application.
