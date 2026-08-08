@@ -8,13 +8,13 @@ Eventify is a web-based event planning platform that helps users explore event t
 
 ## ✨ Features
 
-- 🎉 Browse event themes based on event type
-- 💰 Explore themes according to budget range
-- 🛍️ View products associated with each theme
-- 🔐 User authentication
-- 🗄️ Supabase database integration
-- 👤 User account management
-- 📱 Responsive and interactive user interface
+-  Browse event themes based on event type
+-  Explore themes according to budget range
+-  View products associated with each theme
+-  User authentication
+-  Supabase database integration
+-  User account management
+-  Responsive and interactive user interface
 
 ## 🛠️ Technologies Used
 
