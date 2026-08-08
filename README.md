@@ -82,8 +82,6 @@ Through this project, I gained practical experience in:
 - Additional event categories and products
 - Enhanced user profiles and interactions
 
-## 👩‍💻 Team Lead
-
 **Archana Sale**
 
 - GitHub: [archana399](https://github.com/archana399)
